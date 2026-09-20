@@ -1,254 +1,263 @@
 [
-    {
-        "authorId": "581671881313353731",
-        "host": "lavalink.teramont.net",
-        "identifier": "Teramont Host - Lavalink",
-        "password": "eHKuFcz67k4lBS64",
-        "port": 443,
-        "restVersion": "v3",
-        "secure": true
-    },
-    {
-        "authorId": "867303900884893727",
-        "host": "lava-v3.ajieblogs.eu.org",
-        "identifier": "AjieDev - Lavalink [SSL | UK]",
-        "password": "https://dsc.gg/ajidevserver",
-        "port": 443,
-        "restVersion": "v3",
-        "secure": true
-    },
-    {
-        "authorId": "867303900884893727",
-        "host": "localnet-id.ajiehost.rf.gd",
-        "identifier": "AjieDev - Lavalink [Non SSL | ID]",
-        "password": "https://dsc.gg/ajidevserver",
-        "port": 540,
-        "restVersion": "v3",
-        "secure": false
-    },
-    {
-        "authorId": "867303900884893727",
-        "host": "localnet-sg2.ajiehost.rf.gd",
-        "identifier": "AjieDev - Lavalink [Non SSL | SG]",
-        "password": "https://dsc.gg/ajidevserver",
-        "port": 50243,
-        "restVersion": "v3",
-        "secure": false
-    },
-    {
-        "identifier": "WeissX Node 1",
-        "host": "node2.alfari.id",
-        "port": 6010,
-        "password": "youshallnotpass",
-        "secure": false,
-        "restVersion": "v3",
-        "authorId": "485472723884310539"
-    },
-    {
-        "identifier": "Creavite US1 Lavalink",
-        "host": "us1.lavalink.creavite.co",
-        "port": 20080,
-        "password": "auto.creavite.co",
-        "secure": false,
-        "restVersion": "v4",
-        "authorId": "217993049802801152"
-    },
-    {
-        "identifier": "WeissX Node 2",
-        "host": "node2.alfari.id",
-        "port": 6013,
-        "password": "youshallnotpass",
-        "secure": false,
-        "restVersion": "v3",
-        "authorId": "485472723884310539"
-    },
-    {
-        "authorId": "454863447344021515",
-        "host": "85.88.163.80",
-        "identifier": "INZEWORLD-NODE (RU)",
-        "password": "saher.inzeworld.com",
-        "port": 3128,
-        "restVersion": "v3",
-        "secure": false
-    },
-    {
-        "authorId": "497768011118280716",
-        "host": "104.168.24.225",
-        "identifier": "Moonu (US)",
-        "password": "moon81238!",
-        "port": 2333,
-        "restVersion": "v3",
-        "secure": false
-    },
-    {
-        "authorId": "143556087365238784",
-        "host": "eu-lavalink.lexnet.cc",
-        "identifier": "Lexnet.cc - EU",
-        "password": "lexn3tl@val!nk",
-        "port": 2333,
-        "restVersion": "v3",
-        "secure": false
-    },
-    {
-        "authorId": "143556087365238784",
-        "host": "oce-lavalink.lexnet.cc",
-        "identifier": "Lexnet.cc - OCE",
-        "password": "lexn3tl@val!nk",
-        "port": 2333,
-        "restVersion": "v3",
-        "secure": false
-    },
-    {
-        "authorId": "410380919212605440",
-        "host": "lava1.horizxon.tech",
-        "identifier": "Horizxon-1 (EU)",
-        "password": "horizxon.tech",
-        "port": 443,
-        "restVersion": "v3",
-        "secure": true
-    },
-    {
-        "authorId": "410380919212605440",
-        "host": "lava3.horizxon.tech",
-        "identifier": "Horizxon-3 (CA)",
-        "password": "horizxon.tech",
-        "port": 443,
-        "restVersion": "v3",
-        "secure": true
-    },
-    {
-        "authorId": "742457036914294855",
-        "host": "51.161.130.134",
-        "identifier": "Made by TRAGIC",
-        "password": "madebytragic",
-        "port": 10449,
-        "restVersion": "v3",
-        "secure": false
-    },
-    {
-        "authorId": "143556087365238784",
-        "host": "lavalink.lexnet.cc",
-        "identifier": "Lexnet.cc - NA",
-        "password": "lexn3tl@val!nk",
-        "port": 2333,
-        "restVersion": "v3",
-        "secure": false
-    },
-    {
-        "authorId": "845287163712372756",
-        "host": "the-net.loves-genshin.lol",
-        "identifier": "LuxuryLabs",
-        "password": "eternal",
-        "port": 2333,
-        "restVersion": "v3",
-        "secure": false
-    },
-    {
-        "authorId": "666824403216105483",
-        "host": "lava-vn.meowsmp.net",
-        "identifier": "beyond (VN)",
-        "password": "meowicelava",
-        "port": 2333,
-        "restVersion": "v3",
-        "secure": false
-    },
-    {
-        "authorId": "410380919212605440",
-        "host": "lava.horizxon.tech",
-        "identifier": "Horizxon - SG",
-        "password": "horizxon.tech",
-        "port": 80,
-        "restVersion": "v3",
-        "secure": false
-    },
-    {
-        "authorId": "238477261781598219",
-        "host": "54.38.198.24",
-        "identifier": "aadi.png",
-        "password": "stonemusicgay",
-        "port": 88,
-        "restVersion": "v3",
-        "secure": false
-    },
-    {
-        "authorId": "135132310260416512",
-        "secure": false,
-        "host": "89.58.5.180",
-        "identifier": "Reedroux",
-        "password": "reedrouxv4lavalink",
-        "port": 20906,
-        "restVersion": "v4"
-    },
-    {
-        "authorId": "508296903960821771",
-        "host": "n1.ll.darrennathanael.com",
-        "identifier": "GlassHost - NY1",
-        "password": "glasshost1984",
-        "port": 2269,
-        "restVersion": "v4",
-        "secure": false
-    },
-    {
-        "authorId": "1080293360276873216",
-        "host": "lavalink.micium-hosting.com",
-        "identifier": "OVH Quebec 01",
-        "password": "micium-hosting.com",
-        "port": 80,
-        "restVersion": "v3",
-        "secure": false
-    },
-    {
-        "authorId": "666824403216105483",
-        "host": "lava-ge.meowsmp.net",
-        "identifier": "andromeda (GE)",
-        "password": "meowicelava",
-        "port": 25579,
-        "restVersion": "v3",
-        "secure": false
-    },
-    {
-        "authorId": "410380919212605440",
-        "host": "lava2.horizxon.tech",
-        "identifier": "Horizxon-2 (US)",
-        "password": "horizxon.tech",
-        "port": 443,
-        "restVersion": "v3",
-        "secure": true
-    },
-    {
-        "identifier": "Akshtt - Free",
-        "host": "lavalink.akshtt.is-a.dev",
-        "port": 443,
-        "password": "admin",
-        "secure": true,
-        "restVersion": "v3",
-        "authorId": "1056531806763102218"
-    },
-    {
-        "identifier": "Akshtt - v4 Free",
-        "host": "lava.akshat.tech",
-        "port": 443,
-        "password": "admin",
-        "secure": true,
-        "restVersion": "v4",
-        "authorId": "1056531806763102218"
-    },
-    {
-        "identifier": "OptikHost - v3",
-        "host": "129.154.47.57",
-        "port": 25997,
-        "password": "admin",
-        "secure": false,
-        "restVersion": "v3",
-        "authorId": "809894927299248200"
-    },
-    {
-        "identifier": "HANMETAFORCE - v4",
-        "host": "node.catfein.com",
-        "port": 30034,
-        "password": "hanmetaforce",
-        "secure": false,
-        "authorId": "917913229668274186",
-        "restVersion": "v4"
-    }
+        {
+                "authorId": "581671881313353731",
+                "host": "lavalink.teramont.net",
+                "identifier": "Teramont Host - Lavalink",
+                "password": "eHKuFcz67k4lBS64",
+                "port": 443,
+                "restVersion": "v3",
+                "secure": true
+        },
+        {
+                "authorId": "867303900884893727",
+                "host": "lava-v3.ajieblogs.eu.org",
+                "identifier": "AjieDev - Lavalink [SSL | UK]",
+                "password": "https://dsc.gg/ajidevserver",
+                "port": 443,
+                "restVersion": "v3",
+                "secure": true
+        },
+        {
+                "authorId": "867303900884893727",
+                "host": "localnet-id.ajiehost.rf.gd",
+                "identifier": "AjieDev - Lavalink [Non SSL | ID]",
+                "password": "https://dsc.gg/ajidevserver",
+                "port": 540,
+                "restVersion": "v3",
+                "secure": false
+        },
+        {
+                "authorId": "867303900884893727",
+                "host": "localnet-sg2.ajiehost.rf.gd",
+                "identifier": "AjieDev - Lavalink [Non SSL | SG]",
+                "password": "https://dsc.gg/ajidevserver",
+                "port": 50243,
+                "restVersion": "v3",
+                "secure": false
+        },
+        {
+                "identifier": "WeissX Node 1",
+                "host": "node2.alfari.id",
+                "port": 6010,
+                "password": "youshallnotpass",
+                "secure": false,
+                "restVersion": "v3",
+                "authorId": "485472723884310539"
+        },
+        {
+                "identifier": "Creavite US1 Lavalink",
+                "host": "us1.lavalink.creavite.co",
+                "port": 20080,
+                "password": "auto.creavite.co",
+                "secure": false,
+                "restVersion": "v4",
+                "authorId": "217993049802801152"
+        },
+        {
+                "identifier": "WeissX Node 2",
+                "host": "node2.alfari.id",
+                "port": 6013,
+                "password": "youshallnotpass",
+                "secure": false,
+                "restVersion": "v3",
+                "authorId": "485472723884310539"
+        },
+        {
+                "authorId": "454863447344021515",
+                "host": "85.88.163.80",
+                "identifier": "INZEWORLD-NODE (RU)",
+                "password": "saher.inzeworld.com",
+                "port": 3128,
+                "restVersion": "v3",
+                "secure": false
+        },
+        {
+                "authorId": "497768011118280716",
+                "host": "104.168.24.225",
+                "identifier": "Moonu (US)",
+                "password": "moon81238!",
+                "port": 2333,
+                "restVersion": "v3",
+                "secure": false
+        },
+        {
+                "authorId": "143556087365238784",
+                "host": "eu-lavalink.lexnet.cc",
+                "identifier": "Lexnet.cc - EU",
+                "password": "lexn3tl@val!nk",
+                "port": 2333,
+                "restVersion": "v3",
+                "secure": false
+        },
+        {
+                "authorId": "143556087365238784",
+                "host": "oce-lavalink.lexnet.cc",
+                "identifier": "Lexnet.cc - OCE",
+                "password": "lexn3tl@val!nk",
+                "port": 2333,
+                "restVersion": "v3",
+                "secure": false
+        },
+        {
+                "authorId": "410380919212605440",
+                "host": "lava1.horizxon.tech",
+                "identifier": "Horizxon-1 (EU)",
+                "password": "horizxon.tech",
+                "port": 443,
+                "restVersion": "v3",
+                "secure": true
+        },
+        {
+                "authorId": "410380919212605440",
+                "host": "lava3.horizxon.tech",
+                "identifier": "Horizxon-3 (CA)",
+                "password": "horizxon.tech",
+                "port": 443,
+                "restVersion": "v3",
+                "secure": true
+        },
+        {
+                "authorId": "742457036914294855",
+                "host": "51.161.130.134",
+                "identifier": "Made by TRAGIC",
+                "password": "madebytragic",
+                "port": 10449,
+                "restVersion": "v3",
+                "secure": false
+        },
+        {
+                "authorId": "143556087365238784",
+                "host": "lavalink.lexnet.cc",
+                "identifier": "Lexnet.cc - NA",
+                "password": "lexn3tl@val!nk",
+                "port": 2333,
+                "restVersion": "v3",
+                "secure": false
+        },
+        {
+                "authorId": "845287163712372756",
+                "host": "the-net.loves-genshin.lol",
+                "identifier": "LuxuryLabs",
+                "password": "eternal",
+                "port": 2333,
+                "restVersion": "v3",
+                "secure": false
+        },
+        {
+                "authorId": "666824403216105483",
+                "host": "lava-vn.meowsmp.net",
+                "identifier": "beyond (VN)",
+                "password": "meowicelava",
+                "port": 2333,
+                "restVersion": "v3",
+                "secure": false
+        },
+        {
+                "authorId": "410380919212605440",
+                "host": "lava.horizxon.tech",
+                "identifier": "Horizxon - SG",
+                "password": "horizxon.tech",
+                "port": 80,
+                "restVersion": "v3",
+                "secure": false
+        },
+        {
+                "authorId": "238477261781598219",
+                "host": "54.38.198.24",
+                "identifier": "aadi.png",
+                "password": "stonemusicgay",
+                "port": 88,
+                "restVersion": "v3",
+                "secure": false
+        },
+        {
+                "authorId": "135132310260416512",
+                "secure": false,
+                "host": "89.58.5.180",
+                "identifier": "Reedroux",
+                "password": "reedrouxv4lavalink",
+                "port": 20906,
+                "restVersion": "v4"
+        },
+        {
+                "authorId": "508296903960821771",
+                "host": "n1.ll.darrennathanael.com",
+                "identifier": "GlassHost - NY1",
+                "password": "glasshost1984",
+                "port": 2269,
+                "restVersion": "v4",
+                "secure": false
+        },
+        {
+                "authorId": "1080293360276873216",
+                "host": "lavalink.micium-hosting.com",
+                "identifier": "OVH Quebec 01",
+                "password": "micium-hosting.com",
+                "port": 80,
+                "restVersion": "v3",
+                "secure": false
+        },
+        {
+                "authorId": "666824403216105483",
+                "host": "lava-ge.meowsmp.net",
+                "identifier": "andromeda (GE)",
+                "password": "meowicelava",
+                "port": 25579,
+                "restVersion": "v3",
+                "secure": false
+        },
+        {
+                "authorId": "410380919212605440",
+                "host": "lava2.horizxon.tech",
+                "identifier": "Horizxon-2 (US)",
+                "password": "horizxon.tech",
+                "port": 443,
+                "restVersion": "v3",
+                "secure": true
+        },
+        {
+                "identifier": "Akshtt - Free",
+                "host": "lavalink.akshtt.is-a.dev",
+                "port": 443,
+                "password": "admin",
+                "secure": true,
+                "restVersion": "v3",
+                "authorId": "1056531806763102218"
+        },
+        {
+                "identifier": "Akshtt - v4 Free",
+                "host": "lava.akshat.tech",
+                "port": 443,
+                "password": "admin",
+                "secure": true,
+                "restVersion": "v4",
+                "authorId": "1056531806763102218"
+        },
+        {
+                "identifier": "OptikHost - v3",
+                "host": "129.154.47.57",
+                "port": 25997,
+                "password": "admin",
+                "secure": false,
+                "restVersion": "v3",
+                "authorId": "809894927299248200"
+        },
+        {
+                "identifier": "HANMETAFORCE - v4",
+                "host": "node.catfein.com",
+                "port": 30034,
+                "password": "hanmetaforce",
+                "secure": false,
+                "authorId": "917913229668274186",
+                "restVersion": "v4"
+        },
+        {
+                "identifier": "nazha",
+                "host": "lavalink.nazha.online",
+                "port": 443,
+                "password": "nazhafreelava",
+                "secure": true,
+                "restVersion": "v4",
+                "authorId": "875402851986325504"
+        }
 ]
