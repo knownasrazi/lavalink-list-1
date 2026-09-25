@@ -358,5 +358,14 @@
         "secure": false,
         "restVersion": "v4",
         "authorId": "1355098189388189726"
+    },
+    {
+        "identifier": "nazha",
+        "host": "lavalink.nazha.online",
+        "port": 443,
+        "password": "nazhafreelava",
+        "secure": true,
+        "restVersion": "v4",
+        "authorId": "875402851986325504"
     }
 ]
